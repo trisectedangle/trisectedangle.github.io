@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+ plugins: jekyll-admin]
+ # This will require each of these plugins automatically.
+ 
 # Site settings
 title: Ansel Lim
 email: ansellim@icloud.com
